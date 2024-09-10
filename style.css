@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    text-align: center;
+    height: 316px;
+    padding-top: 47px;
+    line-height: 32px;
+}
+
+h1{
+    color: white;
+    font-size: 35px;
+    font-family: sans-serif;
+
+}
+
+p{
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+#guess{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.guessField{
+    padding: 6px;
+    border: none;
+    border-radius: 8px;
+}
+
+.guessSubmit{
+    padding: 10px;
+    border: none;
+    border-radius: 14px;
+    background-color: brown;
+    color: white;
+}
